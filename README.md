@@ -1,13 +1,12 @@
 
 
 	Project Name : Directory Automation with Auto Scheduled Log Report Facility
-  Technology : Python
+  	Technology : Python
   
-
-  Description:
+	Description:
 	Designed automation script which performs following task.
  
-  Accept Directory name from user and delete all duplicate files from the specified directory by
+	Accept Directory name from user and delete all duplicate files from the specified directory by
 	considering the checksum of files.
 
 	Create one Directory named as Demo and inside that directory create log file which 
